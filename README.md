@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/nilesh0198/DSA-Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/nilesh0198/DSA-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3430-count-days-without-meetings](https://github.com/nilesh0198/DSA-Practice/tree/master/3430-count-days-without-meetings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/nilesh0198/DSA-Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Sorting
+|  |
+| ------- |
+| [3430-count-days-without-meetings](https://github.com/nilesh0198/DSA-Practice/tree/master/3430-count-days-without-meetings) |
 <!---LeetCode Topics End-->
