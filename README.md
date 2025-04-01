@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nilesh0198/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/nilesh0198/DSA-Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/nilesh0198/DSA-Practice/tree/master/2262-solving-questions-with-brainpower) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nilesh0198/DSA-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/nilesh0198/DSA-Practice/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/nilesh0198/DSA-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/nilesh0198/DSA-Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/nilesh0198/DSA-Practice/tree/master/2262-solving-questions-with-brainpower) |
 ## Shortest Path
 |  |
 | ------- |
