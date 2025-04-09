@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/nilesh0198/DSA-Practice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/nilesh0198/DSA-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/nilesh0198/DSA-Practice/tree/master/3430-count-days-without-meetings) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/nilesh0198/DSA-Practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nilesh0198/DSA-Practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/nilesh0198/DSA-Practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Bit Manipulation
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nilesh0198/DSA-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/nilesh0198/DSA-Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/nilesh0198/DSA-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/nilesh0198/DSA-Practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nilesh0198/DSA-Practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
